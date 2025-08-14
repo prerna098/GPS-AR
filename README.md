@@ -1,1 +1,1 @@
-# GPS-AR
+Unity-powered GPS AR application enabling real-world object placement via location services.Leverages AR Foundation and ARCore for precise tracking and immersive experiences.Tested and optimized for seamless performance on supported Android devices.
