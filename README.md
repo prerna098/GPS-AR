@@ -1,1 +1,1 @@
-Unity-powered GPS AR application enabling real-world object placement via location services.Leverages AR Foundation and ARCore for precise tracking and immersive experiences.Tested and optimized for seamless performance on supported Android devices.
+This project is a simple GPS-based Augmented Reality (AR) prototype built using Unity. It demonstrates how to fetch and display real-time location data (latitude, longitude, and horizontal accuracy) inside a Unity application.
